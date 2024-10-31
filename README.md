@@ -76,7 +76,6 @@ If you find our benchmark helpful, feel free to give us a cite.
     title = {MedJourney: Benchmark and Evaluation of Large Language Models over Patient Clinical Journey},
     author = {Wu, Xian and Zhao, Yutian and Zhang, Yunyan and Wu, Jiageng and Zhu, Zhihong and Zhang, Yingying and Ouyang, Yi and Zhang, Ziheng and Wang, Huimin and Lin, Zhenxi and Yang, Jie, and Zhao, Shuang and Zheng, Yefeng},
     booktitle = "NeurIPS",
-    month = {September},
     year = {2024}
 }
 
